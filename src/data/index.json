@@ -1,0 +1,51 @@
+{
+    "skills": [
+        {
+            "id": "1", 
+            "src": "./img/logo192.png",
+            "title": "Front-End",
+            "description": "Lorem ipsum dolar sit amet"
+        },
+        {
+            "id": "2", 
+            "src": "./img/logo192.png",
+            "title": "Back-End",
+            "description": "Lorem ipsum dolar sit amet"
+        },
+        {
+            "id": "3", 
+            "src": "./img/logo192.png",
+            "title": "C++",
+            "description": "Lorem ipsum dolar sit amet"
+        },
+        {
+            "id": "4", 
+            "src": "./img/logo192.png",
+            "title": "Python",
+            "description": "Lorem ipsum dolar sit amet"
+        }
+    ],
+    "portfolio": [
+        {
+            "id": "1", 
+            "src": "./img/logo192.png",
+            "title": "Project 1",
+            "description": "Lorem ipsum dolar sit amet", 
+            "link": "View In Github"
+        },
+        {
+            "id": "2", 
+            "src": "./img/logo192.png",
+            "title": "Project 2",
+            "description": "Lorem ipsum dolar sit amet", 
+            "link": "View In Github"
+        },
+        {
+            "id": "3", 
+            "src": "./img/logo192.png",
+            "title": "Project 3",
+            "description": "Lorem ipsum dolar sit amet", 
+            "link": "View In Github"
+        }
+    ]
+}
