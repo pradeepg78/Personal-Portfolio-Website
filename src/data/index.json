@@ -28,10 +28,10 @@
     "portfolio": [
         {
             "id": "1", 
-            "src": "./img/logo192.png",
+            "src": "./img/CApy Logo.webp",
             "title": "CApy",
-            "description": "Club managerial software, bult with Python, SQL, MongoDB, Supabase and Linear", 
-            "link": "View In Github"
+            "description": "Club managerial software on Discord, built with Python, SQL, MongoDB, Supabase and Linear!", 
+            "link": "https://github.com/pradeepg78/CApy/tree/event_registration"
         },
         {
             "id": "2", 
