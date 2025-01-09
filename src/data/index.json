@@ -2,27 +2,51 @@
     "skills": [
         {
             "id": "1", 
-            "src": "./img/logo192.png",
-            "title": "Front-End",
-            "description": "Lorem ipsum dolar sit amet"
+            "src": "./img/Java Logo.jpg",
+            "title": "Java",
+            "description": "4 Years"
         },
         {
             "id": "2", 
-            "src": "./img/logo192.png",
-            "title": "Back-End",
-            "description": "Lorem ipsum dolar sit amet"
+            "src": "./img/python.webp",
+            "title": "Python",
+            "description": "3 Years"
         },
         {
             "id": "3", 
-            "src": "./img/logo192.png",
+            "src": "./img/C++ Logo.png",
             "title": "C++",
-            "description": "Lorem ipsum dolar sit amet"
+            "description": "2 Years"
         },
         {
             "id": "4", 
-            "src": "./img/logo192.png",
-            "title": "Python",
-            "description": "Lorem ipsum dolar sit amet"
+            "src": "./img/JavaScript Logo.webp",
+            "title": "Javascript",
+            "description": "2 Years"
+        },
+        {
+            "id": "5", 
+            "src": "./img/SQL Logo.jpg",
+            "title": "SQL",
+            "description": "1 Year"
+        },
+        {
+            "id": "6", 
+            "src": "./img/C Logo.jpg",
+            "title": "C",
+            "description": "0.5 Year"
+        },
+        {
+            "id": "7", 
+            "src": "./img/Swift Logo.png",
+            "title": "Swift",
+            "description": "0.5 Year"
+        },
+        {
+            "id": "8", 
+            "src": "./img/MIPS Assembly Logo.png",
+            "title": "MIPS",
+            "description": "0.5 Year"
         }
     ],
     "portfolio": [
@@ -35,16 +59,16 @@
         },
         {
             "id": "2", 
-            "src": "./img/logo192.png",
-            "title": "Project 2",
-            "description": "Lorem ipsum dolar sit amet", 
+            "src": "./img/Stock Predictor.webp",
+            "title": "Stock Predictor",
+            "description": "AI-driven stock forecasting model using Python, Scikit-learn, Pandas, NumPy, Matplotlib, and TensorFlow!", 
             "link": "View In Github"
         },
         {
             "id": "3", 
-            "src": "./img/logo192.png",
+            "src": "./img/",
             "title": "Project 3",
-            "description": "Lorem ipsum dolar sit amet", 
+            "description": "Club managerial software on Discord, built with Python, SQL, MongoDB, Supabase and Linear!", 
             "link": "View In Github"
         }
     ]
