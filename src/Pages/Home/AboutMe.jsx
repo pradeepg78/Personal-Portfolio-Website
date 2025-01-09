@@ -14,10 +14,10 @@ export default function AboutMe() {
                         About Me
                     </h1>
                     <p className="hero--section--description">
-                        I am a cs major from rpi, i am looking for a job
+                        I am a cs major from rpi, i am looking for a job. I am a cs major from rpi, i am looking for a job. I am a cs major from rpi, i am looking for a job. I am a cs major from rpi, i am looking for a job. I am a cs major from rpi, i am looking for a job.
                     </p>
                     <p className="hero--section--description">
-                        im learning ai and langchain, as well as database systems and sql
+                        im learning ai and langchain, as well as database systems and sql. i am good at java python and c++, and i am interested i spftware engineering as well as ml and ai
                     </p>
                 </div>
             </div>
