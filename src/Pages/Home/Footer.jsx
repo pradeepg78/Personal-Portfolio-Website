@@ -6,7 +6,11 @@ function Footer() {
     <footer className="footer--container">
       <div className="footer--link--container">
         <div>
-          <img src="./img/example logo.png" alt="Logoipsum" />
+          <img 
+            src="./img/example logo.png" 
+            alt="Logoipsum" 
+            style={{width: "100px", height: "auto"}}
+          />
         </div>
         <div className="footer--items">
           <ul>
