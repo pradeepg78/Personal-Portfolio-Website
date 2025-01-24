@@ -2,49 +2,49 @@
     "skills": [
         {
             "id": "1", 
-            "src": "./img/Java Logo.jpg",
+            "src": "./img/java-logo.jpg",
             "title": "Java",
             "description": "4 Years"
         },
         {
             "id": "2", 
-            "src": "./img/python.webp",
+            "src": "./img/python-logo.webp",
             "title": "Python",
             "description": "3 Years"
         },
         {
             "id": "3", 
-            "src": "./img/C++ Logo.png",
+            "src": "./img/c++-logo.png",
             "title": "C++",
             "description": "2 Years"
         },
         {
             "id": "4", 
-            "src": "./img/JavaScript Logo.webp",
+            "src": "./img/javascript-logo.webp",
             "title": "Javascript",
             "description": "2 Years"
         },
         {
             "id": "5", 
-            "src": "./img/SQL Logo.jpg",
+            "src": "./img/sql-logo.jpg",
             "title": "SQL",
             "description": "1 Year"
         },
         {
             "id": "6", 
-            "src": "./img/C Logo.jpg",
+            "src": "./img/c-logo.jpg",
             "title": "C",
             "description": "0.5 Year"
         },
         {
             "id": "7", 
-            "src": "./img/Swift Logo.png",
+            "src": "./img/swift-logo.png",
             "title": "Swift",
             "description": "0.5 Year"
         },
         {
             "id": "8", 
-            "src": "./img/MIPS Assembly Logo.png",
+            "src": "./img/mips-logo.png",
             "title": "MIPS",
             "description": "0.5 Year"
         }
@@ -52,17 +52,17 @@
     "portfolio": [
         {
             "id": "1", 
-            "src": "./img/CApy Logo.webp",
+            "src": "./img/capy-logo.webp",
             "title": "CApy",
             "description": "Club managerial software on Discord, built with Python, SQL, MongoDB, Supabase and Linear!", 
             "link": "https://github.com/pradeepg78/CApy/tree/event_registration"
         },
         {
             "id": "2", 
-            "src": "./img/Stock Predictor.webp",
+            "src": "./img/stock-predictor-logo.webp",
             "title": "Stock Predictor",
             "description": "AI-driven stock forecasting model using Python, Scikit-learn, Pandas, NumPy, Matplotlib, and TensorFlow!", 
-            "link": "View In Github"
+            "link": "https://github.com/pradeepg78/Stock-Predictor"
         },
         {
             "id": "3", 

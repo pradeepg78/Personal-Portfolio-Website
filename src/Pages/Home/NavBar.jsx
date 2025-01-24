@@ -39,7 +39,7 @@ function Navbar() {
         <nav className={`navbar${navActive? " active" : ""}`}>
             <div>
                 <img 
-                src="./img/example logo.png" 
+                src="./img/example-logo.png" 
                 alt="Example Logo" 
                 style ={{width: "100px", height: "auto"}}/>
             </div>

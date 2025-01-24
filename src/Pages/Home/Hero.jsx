@@ -6,20 +6,22 @@ export default function Hero() {
                     <p className="section--title">Hey, I am Pradeep</p>
                     <h1 className="hero--section--title">
                         <span className="hero--section--title--color">
-                            Computer Science
+                            CS + FINANCE
                         </span>{" "}
                         <br />
-                        Student
+                        AI, ML, AND DATA
                     </h1>
                     <p className="hero--section--description">
-                        I am a passionate software engineer with a profound knowledge of JavaScript, React, and Node.js. I love building scalable and efficient applications that deliver outstanding user experiences. I strive to create clean, maintainable code and always eager to learn more.
-                        <br /> Please Hire me.
+                        I am a very ambitious software developer with a unique background that has prepared me to be a team player who communicates effectively, faces problems analytically and has the technical skills to tackle any challenge.
+                        <br /> 
+                        <br />
+                        I love building scalable and efficient applications that deliver outstanding user experiences. I strive to create clean, maintainable code and am always eager to learn more.
                     </p>
                 </div>
                 <button className="btn btn-primary">Get In Touch</button>
             </div>
             <div className="hero--section--img">
-                <img src="./img/HS Yearbook Photo.jpg" alt="Hero Section" />
+                <img src="./img/yearbook-photo.jpg" alt="Hero Section" />
             </div>
         </section>
     );

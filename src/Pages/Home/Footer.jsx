@@ -7,8 +7,8 @@ function Footer() {
       <div className="footer--link--container">
         <div>
           <img 
-            src="./img/example logo.png" 
-            alt="Logoipsum" 
+            src="./img/example-logo.png" 
+            alt="Portfolio Logo" 
             style={{width: "100px", height: "auto"}}
           />
         </div>
